@@ -18,8 +18,8 @@ from scipy.sparse import coo_matrix
 
 import sys
 sys.path.append(str(Path(__file__).parent.parent))
-import src
-from src import models
+#import src
+#from src import models
 import matplotlib.pyplot as plt
 import seaborn as sns
 
